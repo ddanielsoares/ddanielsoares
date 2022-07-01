@@ -13,7 +13,7 @@
 - Nu Kenzie, aplicação simples de gerenciamento de gastos usando React, sem banco de dados associado: https://react-entrega-s1-nu-kenzie-ddanielsoares.vercel.app/
 - Hamburgueria Kenzie, aplicação de ecommerce de lanches feita usando React, mobile first e consumindo API externa: https://react-entrega-s1-hamburgueria-da-kenzie-ddanielsoares.vercel.app/
 - AVT Consulta, aplicação fictícia, com layout de cadastro mostrando sua linha temporal após os eventos em Loki,
-React + Styled Components: https://react-entrega-s2-formulario-de-cadastro-ddanielsoares.vercel.app/ 
+React e Styled Components: https://react-entrega-s2-formulario-de-cadastro-ddanielsoares.vercel.app/ 
 - LiteraTroca, site completo feito com um time de desenvolvedores para projeto final do curso, feito em React utilizando bibliotecas para estilização, além de context para usabilidade do site: https://literatroca.vercel.app/
 
 <!---
