@@ -5,6 +5,10 @@
 - 📫 Contate-me através do meu email: daniel.dudu.soares16@gmail.com
 - Ou através do Linkedin: https://www.linkedin.com/in/ddaniel-araujo/
 
+- Enquanto produzo o portifólio, acesse alguns dos meus projetos feitos durante o curso na Kenzie Academy Brasil:
+
+- Estilização de tela de streaming usando HTML5 e CSS3 puro, aplicação de responsividade: https://kenzie-academy-brasil-developers.github.io/estilizar-layout-plataforma-streaming-sprint-1-ddanielsoares/
+
 <!---
 ddanielsoares/ddanielsoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
